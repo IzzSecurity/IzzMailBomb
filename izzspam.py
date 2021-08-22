@@ -6,6 +6,9 @@ import datetime
 import os
 import time
 
+class bcolors:
+	GREEN = "\033[92m"
+
 
 os.system("clear")
 os.system("figlet IzzSpammer")
@@ -17,7 +20,7 @@ print
 
 time.sleep(5)
 
-print  """
+print( bcolors.GREEN + """
        #########################################################
        #						       #
        #   [+] Author    : IzzFsociety     		       #
