@@ -17,11 +17,11 @@ print
 time.sleep(5)
 
 print  """
-print          	#########################################################
-print           #       [+] Author    : IzzFsociety     		#
-print           #       [+] Github    : github.com/izzzfsociety         #
-print           #       [+] Instagram : https://instagram/izzfsociety   #
-print		#########################################################								
+              	#########################################################
+                #       [+] Author    : IzzFsociety     		#
+                #       [+] Github    : github.com/izzzfsociety         #
+                #       [+] Instagram : https://instagram/izzfsociety   #
+		#########################################################								
 print     							   """
 time.sleep(3)
 print
