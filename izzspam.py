@@ -11,19 +11,17 @@ class bcolors:
 	ENDC  = "\033[0m"
 
 
-
 def spam():
-	os.system("clear")
 	print( bcolors.GREEN + """
-       #########################################################
-       #						       #
-       #   [+] Author    : IzzFsociety     		       #
-       #                                                       #
-       #   [+] Github    : github.com/izzzfsociety             #
-       #                                                       #
-       #   [+] Instagram : https://instagram/izzfsociety       #
-       #						       #
-       ######################################################### """ + bcolors.ENDC)				    
+                   #########################################################
+                   #						           #
+                   #   [+] Author    : IzzFsociety     		           #
+                   #                                                       #
+                   #   [+] Github    : github.com/izzzfsociety             #
+                   #                                                       #
+                   #   [+] Instagram : https://instagram/izzfsociety       #
+                   #						           #
+                   ######################################################### """ + bcolors.ENDC)				    
 
 
       
