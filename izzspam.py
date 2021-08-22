@@ -18,14 +18,14 @@ print
 time.sleep(5)
 
 print  """
-              	#########################################################
-                #   [+] Author    : IzzFsociety     		        #
-                #                                                       #
-                #   [+] Github    : github.com/izzzfsociety             #
-                #                                                       #
-                #   [+] Instagram : https://instagram/izzfsociety       #
-		#########################################################								
-print     							      """
+          #########################################################
+          #   [+] Author    : IzzFsociety     		          #
+          #                                                       #
+          #   [+] Github    : github.com/izzzfsociety             #
+          #                                                       #
+          #   [+] Instagram : https://instagram/izzfsociety       #
+          #########################################################								
+    							       """
 time.sleep(3)
 print
 print
