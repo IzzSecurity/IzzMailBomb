@@ -8,19 +8,13 @@ import time
 
 class bcolors:
 	GREEN = "\033[92m"
+	ENDC  = "\033[0m"
 
 
-os.system("clear")
-os.system("figlet IzzSpammer")
 
-print 
-print
-print
-print
-
-time.sleep(5)
-
-print( bcolors.GREEN + """
+def spam():
+	os.system("clear")
+	print( bcolors.GREEN + """
        #########################################################
        #						       #
        #   [+] Author    : IzzFsociety     		       #
@@ -29,7 +23,7 @@ print( bcolors.GREEN + """
        #                                                       #
        #   [+] Instagram : https://instagram/izzfsociety       #
        #						       #
-       #########################################################  				    
+       ######################################################### """ + bcolors.ENDC)				    
 
 
       
