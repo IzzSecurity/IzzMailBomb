@@ -41,3 +41,11 @@ __An email bomb is a form of Internet abuse which is perpetrated through the sen
     git clone https://github.com/Izzzfsociety/Troll-Spam
     cd Troll-Spam
     python2 izzspam.py
+    
+    
+    
+   # DONATE
+
+<a href="https://www.buymeacoffee.com/izzfsociety">
+         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKZIOJXQ4q7IvuAdKoV68v96pYZ0KAq4RjNQ&usqp=CAU"
+              width=150" height="70">
