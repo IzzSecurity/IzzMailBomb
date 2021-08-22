@@ -33,8 +33,6 @@ print( bcolors.GREEN + """
     							     """
 
 
-print "
-print "
       
 smtp   = raw_input("Enter Your Mail Server : ")
 print
