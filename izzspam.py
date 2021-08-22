@@ -31,7 +31,7 @@ print( bcolors.GREEN + """
        #						       #
        #########################################################
     							     """
-time.sleep(3)
+
 print
 print
 print
