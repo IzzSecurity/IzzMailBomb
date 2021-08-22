@@ -12,17 +12,10 @@ class bcolors:
 
 
 def spam():
-	print( bcolors.GREEN + """
-                   #########################################################
-                   #						           #
-                   #   [+] Author    : IzzFsociety     		           #
-                   #                                                       #
-                   #   [+] Github    : github.com/izzzfsociety             #
-                   #                                                       #
-                   #   [+] Instagram : https://instagram/izzfsociety       #
-                   #						           #
-                   ######################################################### """ + bcolors.ENDC)				    
-
+      print( bcolors.GREEN + """
+      ▀█▀ ▀▀█ ▀▀█ ▒█▀▀▀█ █▀▀█ █▀▀█ █▀▄▀█ 
+      ▒█░ ▄▀░ ▄▀░ ░▀▀▀▄▄ █░░█ █▄▄█ █░▀░█ 
+      ▄█▄ ▀▀▀ ▀▀▀ ▒█▄▄▄█ █▀▀▀ ▀░░▀ ▀░░░▀ """ + bcolors.ENDC)
 
       
 smtp   = raw_input("Enter Your Mail Server : ")
