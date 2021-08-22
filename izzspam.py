@@ -9,7 +9,8 @@ import time
 
 os.system("clear")
 os.system("figlet IzzSpammer")
-print
+
+print 
 print
 print
 print
@@ -18,11 +19,13 @@ time.sleep(5)
 
 print  """
               	#########################################################
-                #       [+] Author    : IzzFsociety     		#
-                #       [+] Github    : github.com/izzzfsociety         #
-                #       [+] Instagram : https://instagram/izzfsociety   #
+                #   [+] Author    : IzzFsociety     		        #
+                #                                                       #
+                #   [+] Github    : github.com/izzzfsociety             #
+                #                                                       #
+                #   [+] Instagram : https://instagram/izzfsociety       #
 		#########################################################								
-print     							   """
+print     							      """
 time.sleep(3)
 print
 print
@@ -53,7 +56,7 @@ if smtp == 'Gmail':
 				print 
 				print
 				print
-			        send = raw_input("Please Enter Your Victim Email : ")
+			    send = raw_input("Please Enter Your Victim Email : ")
 				print
 				print
 				print
@@ -78,4 +81,4 @@ if smtp == 'Gmail':
 				server.quit()
 
 else:
-		print("You Must Choose 'Gmail' ")		
+		print("You Must Choose 'Gmail' ")	
