@@ -1,3 +1,6 @@
+#-*- mode: python -*-
+# -*- coding: utf-8 -*
+
 import smtplib
 import platform
 import getpass
@@ -6,8 +9,6 @@ import datetime
 import os
 import time
 
-#-*- mode: python -*-
-# -*- coding: utf-8 -*
 
 from colorama import init, Fore, Back, Style
 
