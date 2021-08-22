@@ -6,6 +6,9 @@ import datetime
 import os
 import time
 
+#-*- mode: python -*-
+# -*- coding: utf-8 -*
+
 from colorama import init, Fore, Back, Style
 
 def spam():
