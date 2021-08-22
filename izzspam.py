@@ -6,17 +6,14 @@ import datetime
 import os
 import time
 
-class bcolors:
-	GREEN = "\033[92m"
-	ENDC  = "\033[0m"
-
+from colorama import init, Fore, Back, Style
 
 def spam():
-      print( bcolors.GREEN + """
-      ▀█▀ ▀▀█ ▀▀█ ▒█▀▀▀█ █▀▀█ █▀▀█ █▀▄▀█ 
-      ▒█░ ▄▀░ ▄▀░ ░▀▀▀▄▄ █░░█ █▄▄█ █░▀░█ 
-      ▄█▄ ▀▀▀ ▀▀▀ ▒█▄▄▄█ █▀▀▀ ▀░░▀ ▀░░░▀ """ + bcolors.ENDC)
-
+      print(Style.BRIGHT + Back.YELLOW + Fore.RED + """
+                              ▀█▀ ▀▀█ ▀▀█ ▒█▀▀▀█ █▀▀█ █▀▀█ █▀▄▀█ 
+                              ▒█░ ▄▀░ ▄▀░ ░▀▀▀▄▄ █░░█ █▄▄█ █░▀░█ 
+                              ▄█▄ ▀▀▀ ▀▀▀ ▒█▄▄▄█ █▀▀▀ ▀░░▀ ▀░░░▀ 
+                                                                             """
       
 smtp   = raw_input("Enter Your Mail Server : ")
 print
