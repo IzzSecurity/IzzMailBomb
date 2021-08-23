@@ -13,7 +13,7 @@ __An email bomb is a form of Internet abuse which is perpetrated through the sen
 
 
 
-* Use Python 2.7.18
+# Python 2.7.18
 
 
 
@@ -27,8 +27,8 @@ __An email bomb is a form of Internet abuse which is perpetrated through the sen
     pkg install git
     pkg install python
     pkg install figlet
-    git clone https://github.com/Izzzfsociety/Troll-Spam
-    cd Troll-Spam
+    git clone https://github.com/Izzzfsociety/Email-Bomb
+    cd Email-Bomb
     python2 izzspam.py
     
     
@@ -38,8 +38,8 @@ __An email bomb is a form of Internet abuse which is perpetrated through the sen
     apt install git
     apt install python
     apt install figlet
-    git clone https://github.com/Izzzfsociety/Troll-Spam
-    cd Troll-Spam
+    git clone https://github.com/Izzzfsociety/Email-Bomb
+    cd Email-Bomb
     python2 izzspam.py
     
     
